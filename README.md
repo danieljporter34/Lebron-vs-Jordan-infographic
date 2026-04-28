@@ -33,7 +33,7 @@ The LeBron vs. Jordan debate is one of basketball's most enduring conversations.
 | File/Folder | Description |
 |-------------|-------------|
 | `Final_InfographicWorkingCopy.svg` | The infographic (viewable directly in browser) |
-| `analysis.ipynb` | Jupyter notebook with data cleaning and analysis |
+| `Dataprocessing.ipynb` | Jupyter notebook with data cleaning and analysis |
 | `Data/` | Folder containing CSV files with career statistics |
 
 ## Tools Used
@@ -50,11 +50,11 @@ This infographic is part of my broader interest in basketball analytics:
 
 ## About the Author
 
-I am a Data Science student (4.0 GPA) at the University of Oregon and Co-Head Manager for Oregon Men's Basketball. I combine technical analytics with real-world basketball operations experience.
+I am a Data Science student (4.0 GPA) at the University of Oregon and Head Manager for Oregon Men's Basketball. I combine technical analytics with real-world basketball operations experience.
 
 ## Note on Data Sources
 
-Career statistics compiled from publicly available sources, including Basketball Reference and NBA.com. Statistics are current as of the 2024-25 season where applicable.
+Career statistics compiled from publicly available sources, including Basketball Reference and NBA.com. Statistics are current as of the 2024-25 season, where applicable.
 
 ## License
 
